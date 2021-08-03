@@ -1,4 +1,4 @@
-For run the games we should first install the pygame library
+For run the games we should first install the pygame library by the following command
 ```bash
 pip install pygame 
 ```
